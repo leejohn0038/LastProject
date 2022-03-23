@@ -44,7 +44,8 @@ html, body {
 
 .div1 span{
 	position: relative;
-	
+	text-align: right;
+	left: 90%;
 }
 .div1 span::after {
 	content: '';
@@ -55,8 +56,8 @@ html, body {
     display: inline-block;
     transform: rotate(135deg); /* 각도 */
     position: absolute;
-    top: 10px; /* 기본 0px 값으로 해주세요 */
-    left: 80%; /* 기본 0px 값으로 해주세요 */
+    top: 3px; /* 기본 0px 값으로 해주세요 */
+    left: 100%; /* 기본 0px 값으로 해주세요 */
 }
 
 .div1 p {
@@ -75,6 +76,32 @@ html, body {
 	margin: 20px auto;
 	
 }
+.div2-1{
+    padding-bottom: 0;
+    background-color: #ffffff;
+	
+}
+.div2-2 {
+	justify-content: space-between;
+    padding: 0 1rem;
+    height: 4.8rem;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+}
+.div2-2 p {
+	height: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+.div2-2 p:after {
+	margin-left: 0.2rem;
+    content: '*';
+    font-weight: normal;
+    color: #de2e5f;
+}
+
 .div3 {
 	width: 50%;
 	height: 210px;
@@ -93,3 +120,6 @@ html, body {
 	margin: 20px auto;
 	
 }
+
+
+
