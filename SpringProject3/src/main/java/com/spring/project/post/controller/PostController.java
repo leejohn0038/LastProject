@@ -291,6 +291,7 @@ public class PostController {
 		post.setContents_category(categoryNameMap.get(dataArr[3]));
 		if (boardClassMap.get(dataArr[2]) == 1) { post.setProcess(1); }
 		
+		
 		if (dataArr.length > 4) {
 			
 			if (Boolean.parseBoolean(dataArr[5])) {
@@ -301,6 +302,7 @@ public class PostController {
 		} else {
 			postService.addPost(post);
 		}
+		log.info(post);
 		
 		return "redirect:" + mkUri(dataArr[2]);
 	}
