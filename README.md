@@ -31,7 +31,7 @@
 * ETC
 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white">
   
@@ -42,8 +42,8 @@
 * `네이버 지도 API`
 * `다음 우편번호 API`
 
-## Team
-
+## Collaborator
+<a href="https://github.com/leejohn0038/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 ## LICENSE
 
 `MIT License`
