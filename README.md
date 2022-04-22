@@ -43,7 +43,10 @@
 * `다음 우편번호 API`
 
 ## Collaborator
-<a href="https://github.com/leejohn0038/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/remarkablemark">
+  <img src="https://github.com/remarkablemark.png?size=50">
+</a>
+
 ## LICENSE
 
 `MIT License`
