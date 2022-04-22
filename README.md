@@ -43,9 +43,8 @@
 * `다음 우편번호 API`
 
 ## Collaborator
-<a href="https://github.com/remarkablemark">
-  <img src="https://github.com/remarkablemark.png?size=50">
-</a>
+
+[![](https://github.com/leejohn0038.png?size=50)](https://github.com/leejohn0038)
 
 ## LICENSE
 
