@@ -1,5 +1,6 @@
 # 굳캠핑 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejohn0038%2FLastProject&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 > 더욱 건강한 캠핑라이프를 위한 서비스
@@ -34,8 +35,15 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white">
   
-## Usage
-
 ## API
 
+* `카카오 로그인 API`
+* `공공데이터 포털 한국관광공사_고캠핑정보 조회 서비스`
+* `네이버 지도 API`
+* `다음 우편번호 API`
+
+## Team
+
 ## LICENSE
+
+`MIT License`
