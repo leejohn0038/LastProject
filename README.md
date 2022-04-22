@@ -8,8 +8,15 @@
 ## Description
 <img src="https://user-images.githubusercontent.com/70336674/164682727-b27a154f-3949-4a97-98c7-f71a3a9216bb.png" width="50%">
 
-* 카카오, 공공데이터 및 API 사용
-* Ajax로 rest 방식 구현
+* 우측 상단에 있는 모드버튼으로 일반/다크모드 변겅 가능
+* 원하는 캠핑장 조건을 통해 검색가능
+* CK Editor를 사용해 글씨기 기능 구현
+* 카카오 로그인 API로 로그인/아웃 기능 구현
+* 공공데이터포털에서 모든 캠핑장 정보를 API로 받은 다음 DB에 저장
+* 네이버 지도 API로 캠핑장 위치정보 표시
+* 관리자 페이지에서 모든 캠핑장 및 게시글 관
+* 다음 우편번호 API 회원가입 및 캠핑장 정보 추가/수정시 사용
+* Ajax로 rest paging 알고리즘, CRUD 구현
 * AWS-EC2 Linux서버에 배포
 
 ## Environment
