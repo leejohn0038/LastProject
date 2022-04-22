@@ -5,6 +5,37 @@
 > 더욱 건강한 캠핑라이프를 위한 서비스
 
 ## Description
-![](../header.png)
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://user-images.githubusercontent.com/70336674/164682727-b27a154f-3949-4a97-98c7-f71a3a9216bb.png" width="50%">
 
+* 카카오, 공공데이터 및 API 사용
+* Ajax로 rest 방식 구현
+* AWS-EC2 Linux서버에 배포
+
+## Environment
+
+* Back-End
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+
+* Front-End
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+
+* ETC
+
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white">
+  
+## Usage
+
+## API
+
+## LICENSE
