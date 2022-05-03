@@ -8,7 +8,7 @@
 ## Description
 <img src="https://user-images.githubusercontent.com/70336674/164682727-b27a154f-3949-4a97-98c7-f71a3a9216bb.png" width="50%">
 
-* 우측 상단에 있는 모드버튼으로 일반/다크모드 변겅 가능
+* 우측 상단에 있는 모드버튼으로 일반/다크모드 변경 가능
 * 원하는 캠핑장 조건을 통해 검색가능
 * CK Editor를 사용해 글씨기 기능 구현
 * 카카오 로그인 API로 로그인/아웃 기능 구현
